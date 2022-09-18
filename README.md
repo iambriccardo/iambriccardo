@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Riccardo Busetti
 
-- 🔭 I’m currently doing a BSc in **Computer Science** at [unibz](https://www.unibz.it)
+- 👨‍💻 I'm currently working as a **Software Engineer** at [Sentry](https://sentry.io)
+- 👨‍🎓 I've graduated with honors from a BSc in **Computer Science** at [unibz](https://www.unibz.it)
 - 🌱 I’m currently studying **Distributed Systems**
-- ✨ I'm looking for new opportunities in the field of **Backend Engineering**
 - 📫 How to reach me: riccardob36@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ In my free time you will find me cooking 👨‍🍳 and cuddling cats 🐱
