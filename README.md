@@ -4,7 +4,6 @@
 - 👨‍🎓 I've graduated with honors from a BSc in **Computer Science** at [unibz](https://www.unibz.it) with thesis titled _["Distributed Particle Swarm Optimization: Design of Synchronous and Asynchronous Algorithms for Optimization Problems at The Edge"](https://github.com/iambriccardo/bsc-thesis)_
 - ✍️ I love reading and writing about technology, human psychology, and personal growth on [deepstash](https://deepstash.com/u/iambriccardo)
 - ⚫ I have a newsletter about productivity tools called [Productivus](https://productivus.substack.com/)
-- 📫 How to reach me: riccardob36@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ In my free time you will find me cooking 👨‍🍳 and cuddling cats 🐱
 
