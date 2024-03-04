@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Riccardo Busetti
 
 - 👨‍💻 I'm currently working as a **Software Engineer** at [Sentry](https://sentry.io)
+- 💽 I am interested in distributed and data-intensive systems
 - 👨‍🎓 I've graduated with honors from a BSc in **Computer Science** at [unibz](https://www.unibz.it) with thesis titled _["Distributed Particle Swarm Optimization: Design of Synchronous and Asynchronous Algorithms for Optimization Problems at The Edge"](https://github.com/iambriccardo/bsc-thesis)_
-- ✍️ I love reading and writing about technology, human psychology, and personal growth on [deepstash](https://deepstash.com/u/iambriccardo)
 - ⚫ I have a newsletter about productivity tools called [Productivus](https://productivus.substack.com/)
 - ⚡ In my free time you will find me cooking 👨‍🍳 and cuddling cats 🐱
 
