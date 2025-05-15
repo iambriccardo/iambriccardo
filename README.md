@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="hi"/>
   <br>
-  <strong>Hi, I’m Riccardo Busetti</strong> 👋
+  <strong>Hi, I’m Riccardo Busetti</strong>
 </p>
 
 ---
