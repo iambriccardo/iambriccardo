@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- **Current Role:** Senior Software Engineer @ [Supabase](https://supabase.com/) • Working in the Postgres team.
+- **Current Role:** Senior Software Engineer @ [Supabase](https://supabase.com/) • Leading the [ETL](https://github.com/supabase/etl) team.
 - **Former:** Software Engineer @ [Sentry](https://sentry.io/welcome/) • Worked in the Telemetry and Ingest teams.
 - **Education:** BSc Computer Science (hons) @ [Free University of Bozen-Bolzano](https://www.unibz.it) • Thesis: “[Distributed Particle Swarm Optimization: Design of Synchronous and Asynchronous Algorithms for Optimization Problems at The Edge](https://github.com/iambriccardo/bsc-thesis)”
 
